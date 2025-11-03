@@ -41,7 +41,7 @@ Currently building portfolio projects demonstrating end-to-end ML systems, moder
 
 ## 🚀 Featured Projects
 
-### [NBA Data Pipeline & ML Prediction System](https://github.com/YOUR_USERNAME/nba-data-pipeline) *(In Development)*
+### [https://github.com/Daniel-Tietie/nba-data-pipeline-analytics) *(In Development)*
 Building production-grade data pipeline with Airflow orchestration for automated NBA data processing and game outcome predictions.
 - **Tech:** Python, Airflow, PostgreSQL, Docker, scikit-learn, XGBoost, FastAPI, Streamlit
 - **Features:** Automated ETL, ensemble ML models, interactive dashboard, REST API
