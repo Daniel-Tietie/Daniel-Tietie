@@ -6,7 +6,7 @@ Final-year Computer Science student at the University of New Brunswick with hand
 
 Currently building portfolio projects demonstrating end-to-end ML systems, modern AI architectures, and scalable data pipelines.
 
-**Expected Graduation:** August 2026 | **Location:** Ottawa, ON
+**Expected Graduation:** August 2026 | **Location:** Fredericton, NB
 
 ---
 
@@ -47,12 +47,13 @@ Building production-grade data pipeline with Airflow orchestration for automated
 - **Features:** Automated ETL, ensemble ML models, interactive dashboard, REST API
 
 ### [Multi-Agent Data Analysis System](https://github.com/YOUR_USERNAME/multi-agent-analysis) *(In Development)*
-LLM-powered multi-agent orchestration system enabling natural language data queries through specialized AI agents.
-- **Tech:** LangChain, LangGraph, Chroma, Groq (Llama 3.1), FastAPI, Gradio, PostgreSQL
-- **Features:** Agent collaboration via state graphs, RAG with vector database, chat interface
+A multi-agent system where AI agents work together to analyze data and answer questions in plain English. Watch agents collaborate in real-time as they break down queries, fetch data, run analysis, and create visualizations.
+- **Tech:** LangChain, LangGraph, Chroma, Groq (Llama 3.1), FastAPI, React, D3.js, PostgreSQL
+- **Features:** Real-time agent visualization, RAG for context-aware queries, interactive dashboards
 
 
 ---
+
 
 ## 📫 Let's Connect
 
@@ -65,9 +66,7 @@ LLM-powered multi-agent orchestration system enabling natural language data quer
 
 - 🔨 Building production-grade ML and data engineering portfolio projects
 - 📚 Learning advanced LLM architectures and multi-agent systems
-- 💼 Seeking Data Engineering, ML Engineering, or Data Science opportunities for Summer 2026
-- 🎓 Graduating August 2026 from UNB Computer Science
+- 💼 Seeking Data Engineering, ML Engineering, or Data Science opportunities for Winter or Summer 2026
 
 ---
 
-*"Turning data into actionable insights, one pipeline at a time."*
