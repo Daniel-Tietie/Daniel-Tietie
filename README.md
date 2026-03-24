@@ -29,9 +29,7 @@ Currently building portfolio projects demonstrating end-to-end ML systems, moder
 ## 💼 Experience
 
 **Analytics Intern** | Municipal Property Assessment Corporation (MPAC) | Ottawa, ON |*May 2025 – Aug. 2025*
-- Built resource allocation prediction model achieving 23% improvement using Random Forest on 48M+ records
-- Optimized ETL pipelines processing 5M+ records with automated validation at 96% data quality
-- Created SQL/BI dashboards reducing manual reporting time and improving decision lead time by 3 days
+
 
 **Teaching Assistant** | University of New Brunswick | Fredericton, NB | *Sept. 2024 – Dec. 2024*
 - Mentored 180+ engineering students on Python data workflows
