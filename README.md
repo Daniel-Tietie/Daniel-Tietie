@@ -2,11 +2,10 @@
 
 ## 👋 About Me
 
-Fourth year Computer Science student at the University of New Brunswick with hands-on experience in data engineering, machine learning, and analytics. Recently completed an analytics internship at MPAC, where I built production ML models and optimized ETL pipelines processing millions of records.
+Fourth year Computer Science student at the University of New Brunswick with hands-on experience in data engineering, machine learning, and analytics. 
 
 Currently building portfolio projects demonstrating end-to-end ML systems, modern AI architectures, and scalable data pipelines.
 
-**Expected Graduation:** August 2026 | **Location:** Fredericton, NB
 
 ---
 
