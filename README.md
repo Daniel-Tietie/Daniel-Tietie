@@ -2,9 +2,9 @@
 
 ## 👋 About Me
 
-Fourth year Computer Science student at the University of New Brunswick with hands-on experience in data engineering, machine learning, and analytics. 
+Fourth year Computer Science student at the University of New Brunswick with hands-on experience in data engineering and analytics. 
 
-Currently building portfolio projects demonstrating end-to-end ML systems, modern AI architectures, and data pipelines.
+Currently building portfolio projects demonstrating end-to-end ML systems, and data pipelines.
 
 
 ---
@@ -13,15 +13,13 @@ Currently building portfolio projects demonstrating end-to-end ML systems, moder
 
 **Programming:** Python, SQL, R, Java
 
-**ML & AI:** TensorFlow, scikit-learn, PyTorch, LangChain, LangGraph, Supervised/Unsupervised Learning, Ensemble Methods, Time Series Forecasting
-
 **Data Engineering:** Apache Airflow, Apache Kafka, PySpark, ETL/ELT Pipelines, Data Modeling
 
-**Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+**Databases:** PostgreSQL, MySQL, SQLite, Neo4j
 
 **Cloud & DevOps:** AWS, Azure, Docker, Git
 
-**Analytics & Visualization:** Pandas, NumPy, Power BI, Matplotlib, Seaborn, Plotly, Streamlit
+**Analytics & Visualization:** Pandas, Power BI, Matplotlib, Seaborn, Plotly, Streamlit
 
 ---
 
@@ -31,8 +29,7 @@ Currently building portfolio projects demonstrating end-to-end ML systems, moder
 
 
 **Teaching Assistant** | University of New Brunswick | Fredericton, NB | *Sept. 2024 – Dec. 2024*
-- Mentored 180+ engineering students on Python data workflows
-- Authored EDA/visualization tutorials raising assignment scores by 20%
+
 
 ---
 
